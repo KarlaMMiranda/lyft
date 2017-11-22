@@ -214,3 +214,16 @@ footer > hr{
 footer > p {
   text-align: center;
 }
+
+.icons{
+  text-align: center;
+  margin: 20px;
+  padding: 10px;
+}
+
+.item{
+  padding: 10px 15px;
+  margin-left: 20px;
+  border: 1px solid #fff;
+  border-radius: 50%;
+}
